@@ -1,5 +1,5 @@
 ## 📌 Task 3: AI & ML Internship Assignment
-# Task-3-Linear-Regression
+# 🏠 House Price Prediction - Simple Linear Regression
 
 This repository contains my implementation of **Linear Regression** as part of the AI/ML internship at Elevate Labs. The goal was to build a simple regression model using the **House Price Prediction dataset**, evaluate its performance using metrics, and visualize the results.
 
